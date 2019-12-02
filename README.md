@@ -7,7 +7,7 @@ This data is to be used for research purposes only.
 
 # Explanation of the columns
 
-- Politician: person entity mentioned at the tweet, target of the stance
+- Politician: person entity mentioned in the tweet, target of the stance
 
 - Party: party the politician was a member of at the time of collection
 
