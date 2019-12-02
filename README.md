@@ -7,7 +7,7 @@ This data is to be used for research purposes only.
 
 # Explanation of the columns
 
-- Politician: person entity mentioned in the tweet, target of the stance
+- Politician: person entity mentioned in the tweet, target of Stance
 
 - Party: party the politician was a member of at the time of collection
 
@@ -16,7 +16,6 @@ This data is to be used for research purposes only.
 - Stance: positive, neutral or negative sentiment towards the politician
 
 - Naming form: form used to refer to the politician out of
-  * first-name (FN)
   * last-name (LN)
   * first-name last-name (FNLN)
   * title last-name (TLN)
