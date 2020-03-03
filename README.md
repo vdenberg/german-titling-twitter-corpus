@@ -25,4 +25,6 @@ This data is to be used for research purposes only.
 
 # Reference
 
-If you use this dataset, please send us a copy of your publication.
+If you use this dataset, please send us a copy of your publication  and cite the following paper:
+
+Esther van den Berg, Katharina Korfhage, Josef Ruppenhofer, Michael Wiegand and Katja Markert (2020). Doctor Who? Framing Through Names and Titles in German. In: *Proceedings of the Tweltfh Conference on Language Resources and Evaluation*.
