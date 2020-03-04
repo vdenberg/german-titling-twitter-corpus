@@ -15,13 +15,13 @@ This data is to be used for research purposes only.
 
 - Stance: positive, neither positive nor negative, or negative sentiment towards the politician
 
-- Naming form: form used to refer to the politician out of
+- Naming-Form: form used to refer to the politician out of
   * last-name (LN)
   * first-name last-name (FNLN)
   * title last-name (TLN)
   * title first-name last-name (TFNLN)
 
-- Politican-orientation (Addendum only): political orientation of the user who posted the tweet
+- Politican-Orientation (Addendum only): political orientation of the user who posted the tweet
 
 # Reference
 
